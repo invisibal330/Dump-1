@@ -1,9 +1,5 @@
-import os, sys
+import Hanan
 
-try:
 
-    __import__("SpY").apv()
 
-except Exception as e:
 
-    exit(str(e))
